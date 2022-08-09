@@ -1,7 +1,8 @@
 # invasive_plant_classifier
 
 An invasive plant classifier trained on BingSearch Images scraped dataset with fastai. 
-</b>Gradio instance hosted on HuggingFace Space here: **https://huggingface.co/spaces/et-do/bc_invasive_plant_classifier**
+
+Gradio instance hosted on HuggingFace Space here: **https://huggingface.co/spaces/et-do/bc_invasive_plant_classifier**
 
 
 ## British Columbia Invasive Plants Identifier
